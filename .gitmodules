@@ -1,0 +1,3 @@
+[submodule "ansible/roles/callmetwice"]
+	path = ansible/roles/callmetwice
+	url = https://github.com/tcentrih/keyboard
